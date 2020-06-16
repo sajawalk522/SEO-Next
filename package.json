@@ -6,8 +6,7 @@
   "dependencies": {
     "next": "^9.4.4",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-responsive-carousel": "^3.2.7"
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {},
   "scripts": {
